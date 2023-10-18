@@ -1,19 +1,19 @@
 # frozenthrone-lua-scripts
 
 
-# features
-----
 
-# CHAT:
+
+
+# CHAT
 - World chat using `#w` in Chat - cross-faction btw
 ---
-# BALANCING:
+# BALANCING
 - Raids/Dungeons balanced to player level/player count/player power
 - LFG works solo
 
-### CLASS SPECIFIC:
+### CLASS SPECIFIC
 - **DEATH KNIGHT**
-	- Nathanos Blightcaller is taking increased damage, turning him into a solo-able encounter
+    - Nathanos Blightcaller is taking increased damage, turning him into a solo-able encounter
 
 ---
 # GEARING
