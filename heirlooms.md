@@ -33,7 +33,7 @@
 - prized beastmaster's mantle 44101
 
 ### plate
-- polished spaulders of valor 4294
+- polished spaulders of valor 42949
 - strengtheed stockade pauldrons 44099
 
 ### one handed
