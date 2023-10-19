@@ -1,4 +1,4 @@
-local GM_XP_MULTIPLIER = 10 -- Adjust the XP multiplier as needed
+local GM_XP_MULTIPLIER = 3 -- Adjust the XP multiplier as needed
 
 local function GMxpBuff(event, player, amount, victim)
     player:SendBroadcastMessage(player:GetGMRank())
