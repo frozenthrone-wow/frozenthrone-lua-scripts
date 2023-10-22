@@ -1,5 +1,3 @@
--- taken from https://github.com/55Honey
-
 local function cs_splitString(inputstr, seperator)
     if seperator == nil then
         seperator = "%s"
