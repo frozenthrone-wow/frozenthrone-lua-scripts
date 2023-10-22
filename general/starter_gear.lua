@@ -37,13 +37,13 @@ local SEPARATE_EQUIPMENT_SETS = {
         42991, 42992, 
     },
     ["horde"] = {
-        44097 -- horde signet
+        44097, -- horde signet
     },
     ["alliance"] = {
-        44098 -- alliance signet
+        44098, -- alliance signet
     },
     ["extra" ] = { -- these get sent to every new character
-
+        11845, -- handmade leather bag, a nice extra 6 slots
     }
 }
 local CLASS_TYPES = {
